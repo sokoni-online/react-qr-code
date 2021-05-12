@@ -1,5 +1,5 @@
 {
-  "name": "@africasokoni/react-qr-code",
+  "name": "react-qr-code",
   "version": "1.0.0",
   "description": "A QR code generator for React and React Native.",
   "keywords": [
