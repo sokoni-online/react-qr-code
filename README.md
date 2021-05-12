@@ -25,7 +25,7 @@ A <QRCode /> component for React. This library works with React and React Native
 ### Installation
 
 ```
-yarn add react-qr-code
+npm i @africaskoni/react-qr-code
 ```
 
 ### The Gist
